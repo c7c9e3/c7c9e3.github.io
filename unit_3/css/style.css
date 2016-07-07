@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/DarkFish.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: #404040;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: 100px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.odd {
+	color: #A0A0FF;
+	background-color: #000040;
+	text-align: center;
+}
+
+.even {
+	color: #00C000;
+	background-color: #004000;
+	text-align: center;
+}
+
+#smallimage {
+    width: 100px;
+    height: 100px;
+}
